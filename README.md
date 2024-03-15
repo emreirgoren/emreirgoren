@@ -5,6 +5,10 @@
   <img align="left" alt="Emre's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/emreirgören/" target="_blank">
+  <img align="left" alt="Emre's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png"/>
+</a>
+
 
 <br />
 
