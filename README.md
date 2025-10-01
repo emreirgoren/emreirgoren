@@ -12,7 +12,7 @@
   ### 🧐 More About Me:
   
 - 💻 Java Software Developer
-- 📝 I’m currently learning Java, Spring and React
+- 📝 I’m currently learning Java, Spring and Angular
 - ⌛ I'm exploring Web Technologies
 - 💬 Talk to me about Java, OOP, Design Patterns(GoF)
 - 📫 Reach me at  **emreirgoren@outlook.com**
